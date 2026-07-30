@@ -1,3 +1,3 @@
 - 👋 Hi, my name is Mauricio Bernardo da Silva
 - 👀 I’m interested in data science and analytics, particularly training in this domain. I also love music, books and videogames.
-- 📫 Reach me on mau.bernardo.silva@gmail.com
+- 📫 Reach me on linkedin.com/in/mauriciobernardodasilva/ or mau.bernardo.silva@gmail.com
